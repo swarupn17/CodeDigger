@@ -45,27 +45,30 @@
     "Discord username": "",
     "Instagram": ""
   },
-  {
+  
+    {
     "Name": "Sparsh Garg",
-    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "College": "Indian Institute of Information Technology, Allahabad (IIITA)",
     "Passout Year": "2027",
     "Song that defines your relationship status": [
-      "",
-      ""
+      "Dynamite",
+      "https://www.youtube.com/watch?v=gdZLi9oWNZg"
     ],
     "Song that defines your academic situation": [
-      "",
-      ""
+      "APT.",
+      "https://www.youtube.com/watch?v=ekr2nIex040"
     ],
     "Your favourite senior name": [""],
     "College crush": [""],
     "Best youtube video you ever watched": [
       ""
     ],
-    "Codeforces id": "",
-    "Codechef id": "",
-    "Atcoder id": "",
-    "Discord username": "",
+    "Codeforces id": "Spcipher",
+    "Codechef id": "sp_onboard",
+    "Atcoder id": "spcipher",
+    "Discord username": "9588587949",
     "Instagram": ""
   }
+
+
 ]
